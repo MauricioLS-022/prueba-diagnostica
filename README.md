@@ -6,6 +6,15 @@ Este repositorio contiene tres problemas con scripts en Python dentro de las car
 
 - Python 3.8 o superior instalado.
 
+## Scripts de Instalación
+
+De acuerdo a los requerimientos de la prueba, se ha incluido un script de instalación en la carpeta `configuracion`.
+
+Para preparar el entorno en Windows, simplemente haga doble clic en el archivo o ejecute en su terminal:
+`.\configuracion\instalar_entorno.bat`
+
+Este script leerá el archivo `requirements.txt` y preparará todo lo necesario para ejecutar los 3 problemas.
+
 **Cómo ejecutar los scripts**
 
 1. Abrir una terminal en la carpeta raíz del proyecto (la que contiene este `README.md`).
@@ -52,3 +61,8 @@ Este repositorio contiene tres problemas con scripts en Python dentro de las car
 **Link al repositorio de GitHub**
 
 https://github.com/MauricioLS-022/prueba-diagnostica
+
+**Link al video de la defensa en Youtube**
+
+https://youtu.be/v2N7iPbNITk?si=glhHnCk6kDhnAeUj
+
